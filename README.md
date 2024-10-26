@@ -16,8 +16,6 @@
 
 Centrally manage all your Sonoff-Tasmota devices.
 
-![TasmoAdmin screenshot](images/screenshot.png)
-
 ## About
 
 TasmoAdmin (formerly known as SonWEB) is an administrative web interface to
